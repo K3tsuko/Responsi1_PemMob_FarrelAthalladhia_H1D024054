@@ -121,7 +121,7 @@ app/src/main/java/com/example/openlibrary/
 3. Pastikan perangkat atau emulator terhubung ke internet.
 4. Klik tombol Run.
 
-Atau install langsung file APK debug: [`app-debug.apk`](app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk)
+Atau install langsung file APK debug: [`app-debug.apk`](apk/app-debug.apk)
 
 ## Video Penjelasan Kode
 
